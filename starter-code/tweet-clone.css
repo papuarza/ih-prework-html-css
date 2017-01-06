@@ -1,0 +1,76 @@
+body {
+	 background-color: rgb(244, 248,249);
+	 font-family: Helvetica;
+	 margin: 30px;
+}
+
+.caja_tweet {
+	background-color: rgb(255,255,255);
+	border: 1px solid rgb(225,232,237);
+	height: 280px;
+	width: 700px;
+}
+
+.encabezado {
+	display: block;
+	height: 80px;
+	margin: 20px;
+}
+
+#imagen_perfil {
+	margin: 0px 20px 0px 0px;
+	float: left;
+}
+
+#info_cuenta {
+	float: left;
+	font-family: Helvetica;
+	font-size: 26px;
+}
+
+.boton_follow {
+	border: 2px solid rgb(85, 172, 238);
+	border-radius: 4px;
+	float: right;
+	padding: 5px 20px 5px 20px;
+	font-size: 26px;
+	font-family: Helvetica;
+	color: rgb(85, 172, 238);
+    justify-content: center;
+    align-content: center;
+}
+
+.texto_tweet {
+	margin-left: 20px;
+	margin-bottom: 35px;
+	font-size: 26px;
+	font-family: Helvetica;
+}
+
+.botones_tweet {
+	margin-left: 20px;
+	font-size: 26px;
+	font-family: Helvetica;
+	color:rgb(101, 116, 127);
+}
+
+
+
+/*
+  body
+  - background:        rgb(244, 248, 249)
+
+  tweet
+  - background:        rgb(255, 255, 255)
+  - border:            rgb(225, 232, 237)
+  - user name:         rgb(0, 0, 0)
+  - user account:      rgb(104, 109, 129)
+  - text:              rgb(0, 0, 0)
+  - date:              rgb(101, 116, 127)
+  - bottom text color: rgb(105, 120, 130)
+  - follow button:     rgb(85, 172, 238) 
+
+ */
+
+
+
